@@ -1,3 +1,5 @@
+Completed solution to debugging_1 including bug in geocoder gem:
+
 # Debugging 1
 
 A program to introduce you to debugging.
@@ -14,13 +16,13 @@ In this program, there are three bugs. You have to find them, and fix them. You 
 
 ### Setup
 
-* Clone the skills workshop repo.
+- Clone the skills workshop repo.
 
-* `cd` into the `week-1/debugging_1` directory.
+- `cd` into the `week-1/debugging_1` directory.
 
-* Run `bundle install`.
+- Run `bundle install`.
 
-* Run the tests with `rspec`.
+- Run the tests with `rspec`.
 
 ### User Stories
 
